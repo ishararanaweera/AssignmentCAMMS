@@ -1,0 +1,25 @@
+{
+  "name": "saucedemoproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishararanaweera/AssessmentCAMMS.git"
+  },
+  "author": "IsharaRanaweera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishararanaweera/AssessmentCAMMS/issues"
+  },
+  "homepage": "https://github.com/ishararanaweera/AssessmentCAMMS#readme",
+  "devDependencies": {
+    "testcafe": "^2.4.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
